@@ -6,16 +6,16 @@
 
 ## <summary>Proof</summary>
 
-### 1
-![linux-quiz1](./task_linux_cli/img/linux-quiz-1-done.jpg) First quiz
+### First quiz
+![linux-quiz1](./task_linux_cli/img/linux-quiz-1-done.jpg) 
 
-### 2
-![linux-quiz2](./task_linux_cli/img/linux-quiz-2-done.jpg) Second quiz
+### Second quiz
+![linux-quiz2](./task_linux_cli/img/linux-quiz-2-done.jpg) 
 
-### 3
-![linux-quiz3](./task_linux_cli/img/linux-quiz-3-done.jpg) Third quiz
+### Third quiz
+![linux-quiz3](./task_linux_cli/img/linux-quiz-3-done.jpg) 
 
-### 4
-![linux-quiz4](./task_linux_cli/img/linux-quiz-4-done.jpg) Fourth quiz
+### Fourth quiz
+![linux-quiz4](./task_linux_cli/img/linux-quiz-4-done.jpg) 
 
 </details>
