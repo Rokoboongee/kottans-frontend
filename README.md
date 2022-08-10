@@ -1,8 +1,8 @@
-# ¡¡Hola!!
+# ¡¡Hola
 
 ## Linux CLI, and HTTP
 
-<details><summary>Finished quiz</summary>
+<details><summary>Закінчені питання</summary>
 
 #### Перший тест
 
@@ -28,16 +28,32 @@
 
 ## Git Collaboration
 
-<details><summary>Finished tasks Git Branching</summary>
+<details><summary>Виконані завдання з Git Branching</summary>
 
-## Основні завдання
+#### Основні завдання
+
 ![main-task-branching](./task_git_collaboration/img/git-branching-main.jpg)
 
 Було б гарно якби контроль версій також був представленний візуально як у завданнях
 
-## Віддалені репозиторії
+#### Віддалені репозиторії
+
 ![task-remote-repo](./task_git_collaboration/img/git-branching-remote-repo.jpg)
 
 З практикою у майбутньому можливо буде круто використовувати фішки які були у завданнях
+
+</details>
+
+## HTML&CSS Intro
+
+<details><summary> Курс 1 та 2 тижня по HTML, CSS, and Javascript for Web Developers</summary>
+
+![coursera-week-1](./task_html_css_intro/img/week_1.jpg)
+
+Нічого нового
+
+![coursera-week-2](./task_html_css_intro/img/week_2.jpg)
+
+З СSS вже цікавіше, море простору для форматування сторінки так багато цікавих посилань
 
 </details>
