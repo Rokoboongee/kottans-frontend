@@ -48,12 +48,13 @@
 
 <details><summary> Курс 1 та 2 тижня по HTML, CSS, and Javascript for Web Developers</summary>
 
+#### Week 1
 ![coursera-week-1](./task_html_css_intro/img/week_1.jpg)
-
 Нічого нового
 
-![coursera-week-2](./task_html_css_intro/img/week_2.jpg)
+#### Week 2
 
+![coursera-week-2](./task_html_css_intro/img/week_2.jpg)
 З СSS вже цікавіше, море простору для форматування сторінки так багато цікавих посилань
 
 </details>
